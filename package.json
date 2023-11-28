@@ -15,5 +15,8 @@
     "@nuxtjs/eslint-config-typescript": "^12.1.0",
     "eslint": "^8.54.0",
     "nuxt": "^3.7.4"
+  },
+  "dependencies": {
+    "@iconify/json": "^2.2.147"
   }
 }
