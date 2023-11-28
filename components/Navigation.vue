@@ -12,7 +12,7 @@
             <li>
               <ULink
                 to="/"
-                active-class="text-yellow-600"
+                active-class="text-rose-600"
                 inactive-class="text-white hover:text-yellow-300"
               >
                 Home
@@ -20,8 +20,8 @@
             </li>
             <li>
               <ULink
-                to="/"
-                active-class="text-yellow-600"
+                to=""
+                active-class="text-rose-600"
                 inactive-class="text-white hover:text-yellow-300"
               >
                 Profile
@@ -29,8 +29,8 @@
             </li>
             <li>
               <ULink
-                to="/"
-                active-class="text-yellow-600"
+                to=""
+                active-class="text-rose-600"
                 inactive-class="text-white hover:text-yellow-300"
               >
                 Artikel
@@ -38,8 +38,8 @@
             </li>
             <li>
               <ULink
-                to="/"
-                active-class="text-yellow-600"
+                to=""
+                active-class="text-rose-600"
                 inactive-class="text-white hover:text-yellow-300"
               >
                 SOP
@@ -47,8 +47,8 @@
             </li>
             <li>
               <ULink
-                to="/"
-                active-class="text-yellow-600"
+                to=""
+                active-class="text-rose-600"
                 inactive-class="text-white hover:text-yellow-300"
               >
                 Produk Layanan
@@ -56,8 +56,8 @@
             </li>
             <li>
               <ULink
-                to="/"
-                active-class="text-yellow-600"
+                to=""
+                active-class="text-rose-600"
                 inactive-class="text-white hover:text-yellow-300"
               >
                 Schedule
@@ -65,8 +65,8 @@
             </li>
             <li>
               <ULink
-                to="/"
-                active-class="text-yellow-600"
+                to=""
+                active-class="text-rose-600"
                 inactive-class="text-white hover:text-yellow-300"
               >
                 Kontak
