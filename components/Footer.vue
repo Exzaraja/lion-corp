@@ -6,7 +6,7 @@
           <div class="px-5 py-2">
             <ULink
               to=""
-              active-class="text-yellow-500"
+              active-class="text-rose-500"
               inactive-class="text-white hover:text-yellow-300"
             >
               About
@@ -15,8 +15,8 @@
           <div class="px-5 py-2">
             <ULink
               to=""
-              active-class="text-yellow-500"
-              inactive-class="text-white hover:text-yellow-500"
+              active-class="text-rose-500"
+              inactive-class="text-white hover:text-yellow-300"
             >
               Blog
             </ULink>
@@ -24,7 +24,7 @@
           <div class="px-5 py-2">
             <ULink
               to=""
-              active-class="text-yellow-500"
+              active-class="text-rose-500"
               inactive-class="text-white hover:text-yellow-300"
             >
               Team
@@ -33,7 +33,7 @@
           <div class="px-5 py-2">
             <ULink
               to=""
-              active-class=" text-yellow-500"
+              active-class=" text-rose-500"
               inactive-class="text-white hover:text-yellow-300"
             >
               Pricing
@@ -42,7 +42,7 @@
           <div class="px-5 py-2">
             <ULink
               to=""
-              active-class=" text-yellow-500"
+              active-class=" text-rose-500"
               inactive-class="text-white hover:text-yellow-300"
             >
               Contact
@@ -51,7 +51,7 @@
           <div class="px-5 py-2">
             <ULink
               to=""
-              active-class=" text-yellow-500"
+              active-class=" text-rose-500"
               inactive-class="text-white hover:text-yellow-300"
             >
               Terms
@@ -59,19 +59,19 @@
           </div>
         </nav>
         <div class="flex justify-center mt-8 space-x-6">
-          <a href="#" class="text-gray-400 hover:text-gray-500">
+          <a href="#" class="text-gray-400 hover:text-gray-300">
             <span class="sr-only">Facebook</span>
             <UIcon name="i-uil-facebook" class="text-4xl" />
           </a>
-          <a href="#" class="text-gray-400 hover:text-gray-500">
+          <a href="#" class="text-gray-400 hover:text-gray-300">
             <span class="sr-only">Instagram</span>
             <UIcon name="i-uil-instagram" class="text-4xl" />
           </a>
-          <a href="#" class="text-gray-400 hover:text-gray-500">
+          <a href="#" class="text-gray-400 hover:text-gray-300">
             <span class="sr-only">Twitter</span>
             <UIcon name="i-uil-twitter" class="text-4xl" />
           </a>
-          <a href="#" class="text-gray-400 hover:text-gray-500">
+          <a href="#" class="text-gray-400 hover:text-gray-300">
             <span class="sr-only">GitHub</span>
             <UIcon name="i-uil-github" class="text-4xl" />
 
