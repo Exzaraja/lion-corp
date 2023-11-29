@@ -14,6 +14,19 @@ export default <Partial<Config>>{
     extend: {
       fontFamily: {
         sans: ['"Poppins"', ...defaultTheme.fontFamily.sans]
+      },
+      keyframes: {
+        wiggle: {
+          '0%, 100%': {
+            transform: 'rotate(-2deg)'
+          },
+          '50%': {
+            transform: 'rotate(4deg)'
+          }
+        }
+      },
+      animation: {
+        wiggle: 'wiggle 3s linear infinite'
       }
     }
   },

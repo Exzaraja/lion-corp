@@ -1,5 +1,5 @@
 <template>
-  <nav class="fixed bg-slate-500/10 z-50 w-full py-6 text-white">
+  <nav class="fixed bg-slate-500/10 z-50 w-full py-6">
     <UContainer>
       <div class="flex items-center justify-between gap-4">
         <!-- logo -->
@@ -8,7 +8,7 @@
         </div>
         <!-- Navbar -->
         <div class="hidden md:block">
-          <ul class="flex space-x-10 mr-auto text-xl font-sans">
+          <ul class="flex gap-10 text-xl font-semibold">
             <li>
               <ULink
                 to="/"
