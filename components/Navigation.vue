@@ -1,10 +1,10 @@
 <template>
-  <nav class="fixed bg-slate-500/10 z-50 w-full py-6">
+  <nav class="fixed bg-slate-500/10 z-50 w-full">
     <UContainer>
       <div class="flex items-center justify-between gap-4">
         <!-- logo -->
         <div class="cursor-pointer">
-          <span><img src="/img/lion.png" alt="" class="w-16"></span>
+          <span><img src="/img/wolf-bg.png" alt="" class="w-20"></span>
         </div>
         <!-- Navbar -->
         <div class="hidden md:block">
@@ -82,10 +82,11 @@
             placeholder="Search..."
           />
           <UButton
-            icon="i-heroicons-magnifying-glass-20-solid"
+            icon="i-fa6-solid-wand-magic-sparkles"
             size="xl"
             color="yellow"
-            variant="solid"
+            variant="soft"
+            label="button"
           />
         </div>
       </div>
